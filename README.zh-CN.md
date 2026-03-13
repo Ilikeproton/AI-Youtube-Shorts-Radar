@@ -1,14 +1,12 @@
 # AI YouTube Shorts Radar
 
-## Demo
-
-[![AI YouTube Shorts Radar demo](./demo.gif)](./demo.mp4)
-
-上面这个预览图是给 GitHub README 用的 GIF，点击后可以打开清晰版 [demo.mp4](./demo.mp4)。
-
 > Free AI-powered YouTube Shorts trend finder.
 >
 > 为做 Shorts 的人找下一个热点，不收费，不订阅，不用 LLM API Key。
+
+## Demo
+
+[![AI YouTube Shorts Radar demo](./demo.gif)](./demo.mp4)
 
 做 YouTube Shorts，最难的往往不是剪视频，而是找下一个值得做的题。
 

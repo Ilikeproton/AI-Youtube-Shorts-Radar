@@ -1,16 +1,14 @@
 # AI YouTube Shorts Radar
 
+> Free AI-powered YouTube Shorts trend finder.
+>
+> Find the next hot topic for your Shorts. No subscription. No paid LLM API key.
+
 [English](./README.md) | [中文](./README.zh-CN.md)
 
 ## Demo
 
 [![AI YouTube Shorts Radar demo](./demo.gif)](./demo.mp4)
-
-The preview above is a GIF for GitHub. Click it to open the full-quality [demo.mp4](./demo.mp4).
-
-> Free AI-powered YouTube Shorts trend finder.
->
-> Find the next hot topic for your Shorts. No subscription. No paid LLM API key.
 
 Making YouTube Shorts is not just about editing.
 It is about finding the next topic before everyone else does.
