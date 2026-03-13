@@ -1,0 +1,35 @@
+# Agent
+.prompt/
+
+# Build output
+bin/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.bat
+
+# Runtime data
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.mp4
+release/
+
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.idea/
+.vscode/
+
+# Temp files
+*.tmp
+*.temp
