@@ -49,6 +49,11 @@
 
 现在已经有可用的 release 版本，支持 Windows 10 和 Windows 11。
 
+如果你不会 build，也没关系。
+我已经打好了一个可直接下载的 Windows release：
+
+[下载 release](https://github.com/Ilikeproton/AI-Youtube-Shorts-Radar/releases/tag/AI_YouTube_Shorts_260313)
+
 如果你想从源码运行，需要:
 
 - Windows 10/11

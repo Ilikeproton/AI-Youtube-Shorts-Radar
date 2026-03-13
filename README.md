@@ -52,6 +52,11 @@ The goal is simple:
 
 A ready-to-use release already supports Windows 10 and Windows 11.
 
+If you do not want to build from source, that is fine.
+I already published a ready-made Windows release here:
+
+[Download the release](https://github.com/Ilikeproton/AI-Youtube-Shorts-Radar/releases/tag/AI_YouTube_Shorts_260313)
+
 If you want to build from source, you need:
 
 - Windows 10/11
