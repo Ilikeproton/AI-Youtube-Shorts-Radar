@@ -18,7 +18,6 @@ data/
 *.sqlite
 *.sqlite3
 *.log
-*.mp4
 release/
 
 
