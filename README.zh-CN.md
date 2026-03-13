@@ -1,7 +1,5 @@
 # AI YouTube Shorts Radar
 
-![AI YouTube Shorts Radar logo](./logo.svg)
-
 ## Demo
 
 [![AI YouTube Shorts Radar demo](./demo.gif)](./demo.mp4)

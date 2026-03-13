@@ -2,8 +2,6 @@
 
 [English](./README.md) | [中文](./README.zh-CN.md)
 
-![AI YouTube Shorts Radar logo](./logo.svg)
-
 ## Demo
 
 [![AI YouTube Shorts Radar demo](./demo.gif)](./demo.mp4)
